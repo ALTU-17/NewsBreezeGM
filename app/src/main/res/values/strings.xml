@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsBreeze</string>
+    <string name="search">Search</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="filter_icon">Filter Icon</string>
+    <string name="save" />
+    <string name="read" />
+    <string name="saved">Saved</string>
+    <string name="today">today</string>
+    <string name="no_saved_news">No Saved News</string>
+</resources>
